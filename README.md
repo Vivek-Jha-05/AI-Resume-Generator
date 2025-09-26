@@ -15,7 +15,7 @@ Hyperlinking: Automatically formats contact links (LinkedIn, URLs, etc.) as clic
 ⚙️ Installation (Run from Source)
 Clone the repository:
 
-git clone [https://github.com/YOUR_USERNAME/AI-Resume-Generator.git](https://github.com/Vivek-Jha-05/AI-Resume-Generator.git)
+git clone [https://github.com/Vivek-Jha-05/AI-Resume-Generator.git](https://github.com/Vivek-Jha-05/AI-Resume-Generator.git)
 cd AI-Resume-Generator
 
 Install dependencies:
